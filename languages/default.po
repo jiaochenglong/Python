@@ -1,0 +1,964 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vesta Lite\n"
+"POT-Creation-Date: 2016-02-18 10:37+0400\n"
+"PO-Revision-Date: 2016-02-18 10:37+0400\n"
+"Last-Translator: Mahdi Yazdani <mahdiyazdani@mail.com>\n"
+"Language-Team: MyPreview Vesta Lite Theme <support@mypreview.net>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:14
+msgid "Monthly Archives for "
+msgstr ""
+
+#: category.php:14
+msgid "Category: "
+msgstr ""
+
+#: comments.php:20
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:20
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:20
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:25
+msgid "<i class=\"fa fa-chevron-left\"></i>&nbsp; Older Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Newer Comments &nbsp;<i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: comments.php:33
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:36
+msgid "You must be"
+msgstr ""
+
+#: comments.php:36
+msgid "logged in"
+msgstr ""
+
+#: comments.php:36
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:47
+msgid "* Name"
+msgstr ""
+
+#: comments.php:51
+msgid "* Email"
+msgstr ""
+
+#: comments.php:55
+msgid "Website"
+msgstr ""
+
+#: comments.php:60
+msgid "* Message"
+msgstr ""
+
+#: comments.php:63
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: functions.php:79
+msgid "Header First Menu"
+msgstr ""
+
+#: functions.php:80
+msgid "Header Second Menu"
+msgstr ""
+
+#: header.php:45
+msgid "Loading..."
+msgstr ""
+
+#: header.php:88 inc/inc-theme-options.php:180
+msgid "Logo"
+msgstr ""
+
+#: header.php:99
+msgid "Menu"
+msgstr ""
+
+#: header.php:114 inc/vw-widgets/widget-search.php:73
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: header.php:114
+msgctxt "placeholder"
+msgid "Search and Hit Enter..."
+msgstr ""
+
+#: inc/inc-comments.php:36
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/inc-comments.php:41
+msgid " ago"
+msgstr ""
+
+#: inc/inc-comments.php:43
+msgid "<i class=\"fa fa-reply\"></i>&nbsp;Reply"
+msgstr ""
+
+#: inc/inc-extend-theme-options.php:71
+msgid "Use This"
+msgstr ""
+
+#: inc/inc-extend-theme-options.php:91
+msgid "Options"
+msgstr ""
+
+#: inc/inc-import-export-theme-options.php:35
+msgid "Options updated."
+msgstr ""
+
+#: inc/inc-import-export-theme-options.php:36
+msgid "Options reset."
+msgstr ""
+
+#: inc/inc-import-export-theme-options.php:37
+msgid "Save Changes"
+msgstr ""
+
+#: inc/inc-import-export-theme-options.php:43
+msgid "Export Options"
+msgstr ""
+
+#: inc/inc-import-export-theme-options.php:47
+msgid "Import Options"
+msgstr ""
+
+#: inc/inc-import-export-theme-options.php:53
+msgid "Export Theme Options"
+msgstr ""
+
+#: inc/inc-import-export-theme-options.php:54
+#: inc/inc-import-export-theme-options.php:66
+msgid "Theme Options"
+msgstr ""
+
+#: inc/inc-import-export-theme-options.php:65
+#: inc/inc-import-export-theme-options.php:132
+msgid "Import Theme Options"
+msgstr ""
+
+#: inc/inc-import-export-theme-options.php:129
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: inc/inc-theme-options.php:33
+msgid "Header"
+msgstr ""
+
+#: inc/inc-theme-options.php:37
+msgid "Footer"
+msgstr ""
+
+#: inc/inc-theme-options.php:41 inc/inc-theme-options.php:95
+msgid "Favicon"
+msgstr ""
+
+#: inc/inc-theme-options.php:45
+msgid "Fonts Manager"
+msgstr ""
+
+#: inc/inc-theme-options.php:49
+msgid "Typography"
+msgstr ""
+
+#: inc/inc-theme-options.php:53
+msgid "Error 404"
+msgstr ""
+
+#: inc/inc-theme-options.php:57
+msgid "Featured Post"
+msgstr ""
+
+#: inc/inc-theme-options.php:61
+msgid "Quote Post"
+msgstr ""
+
+#: inc/inc-theme-options.php:65 inc/vw-widgets/widget-instagram-feed.php:79
+msgid "Instagram"
+msgstr ""
+
+#: inc/inc-theme-options.php:69
+msgid "Newsletter"
+msgstr ""
+
+#: inc/inc-theme-options.php:73
+msgid "Webmaster Tools"
+msgstr ""
+
+#: inc/inc-theme-options.php:77
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/inc-theme-options.php:81
+msgid "Custom Login"
+msgstr ""
+
+#: inc/inc-theme-options.php:85
+msgid "Advanced Options"
+msgstr ""
+
+#: inc/inc-theme-options.php:89
+msgid "Get Premium"
+msgstr ""
+
+#: inc/inc-theme-options.php:96
+msgid ""
+"You can put url of an ico image that will represent your website's favicon "
+"(16px x 16px).\n"
+"<br />\n"
+"<em>Note: Allowed extensions are .ico, .jpg, .png and .gif</em>"
+msgstr ""
+
+#: inc/inc-theme-options.php:112
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: inc/inc-theme-options.php:113
+msgid ""
+"Icon for Apple iPhone (57px x 57px).\n"
+"<br />\n"
+"<em>Note: Allowed extensions are .ico, .jpg, .png and .gif</em>"
+msgstr ""
+
+#: inc/inc-theme-options.php:129
+msgid "Apple iPhone Retina Icon"
+msgstr ""
+
+#: inc/inc-theme-options.php:130
+msgid ""
+"Icon for Apple iPhone Retina Version (114px x 114px).\n"
+"<br />\n"
+"<em>Note: Allowed extensions are .ico, .jpg, .png and .gif</em>"
+msgstr ""
+
+#: inc/inc-theme-options.php:146
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: inc/inc-theme-options.php:147
+msgid ""
+"Icon for Apple iPhone (72px x 72px).\n"
+"<br />\n"
+"<em>Note: Allowed extensions are .ico, .jpg, .png and .gif</em>"
+msgstr ""
+
+#: inc/inc-theme-options.php:163
+msgid "Apple iPad Retina Icon"
+msgstr ""
+
+#: inc/inc-theme-options.php:164
+msgid ""
+"Icon for Apple iPad Retina Version (144px x 144px).\n"
+"<br />\n"
+"<em>Note: Allowed extensions are .ico, .jpg, .png and .gif</em>"
+msgstr ""
+
+#: inc/inc-theme-options.php:195
+msgid "Add Logo Image"
+msgstr ""
+
+#: inc/inc-theme-options.php:210
+msgid "Logo Text"
+msgstr ""
+
+#: inc/inc-theme-options.php:211
+msgid "Enter your brand here."
+msgstr ""
+
+#: inc/inc-theme-options.php:225
+msgid "Navbar Brand"
+msgstr ""
+
+#: inc/inc-theme-options.php:226
+msgid "Change default text style for Navbar Brand."
+msgstr ""
+
+#: inc/inc-theme-options.php:240
+msgid "Logo Image"
+msgstr ""
+
+#: inc/inc-theme-options.php:241
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+
+#: inc/inc-theme-options.php:255
+msgid "Slider"
+msgstr ""
+
+#: inc/inc-theme-options.php:270
+msgid "Header Slider"
+msgstr ""
+
+#: inc/inc-theme-options.php:285
+msgid "No Slider"
+msgstr ""
+
+#: inc/inc-theme-options.php:290
+msgid "Latest Post Slider"
+msgstr ""
+
+#: inc/inc-theme-options.php:295
+msgid "Custom Post Slider"
+msgstr ""
+
+#: inc/inc-theme-options.php:302 inc/inc-theme-options.php:359
+msgid "Posts Count"
+msgstr ""
+
+#: inc/inc-theme-options.php:303 inc/inc-theme-options.php:360
+msgid "Change default items that appear in homepage carousel slider."
+msgstr ""
+
+#: inc/inc-theme-options.php:317
+msgid "Categories"
+msgstr ""
+
+#: inc/inc-theme-options.php:318
+msgid "Choose custom categories to display featured images in slider."
+msgstr ""
+
+#: inc/inc-theme-options.php:332
+msgid "Display Order"
+msgstr ""
+
+#: inc/inc-theme-options.php:333
+msgid "Displaying Posts in Random or Latest order."
+msgstr ""
+
+#: inc/inc-theme-options.php:347
+msgid "Random"
+msgstr ""
+
+#: inc/inc-theme-options.php:352
+msgid "Latest"
+msgstr ""
+
+#: inc/inc-theme-options.php:374
+msgid "About"
+msgstr ""
+
+#: inc/inc-theme-options.php:389
+msgid "About Me"
+msgstr ""
+
+#: inc/inc-theme-options.php:404
+msgid "Your Name"
+msgstr ""
+
+#: inc/inc-theme-options.php:419
+msgid "Your Name Typography"
+msgstr ""
+
+#: inc/inc-theme-options.php:434
+msgid "Some Words About Yourself"
+msgstr ""
+
+#: inc/inc-theme-options.php:449
+msgid "Some Words About Yourself Typography"
+msgstr ""
+
+#: inc/inc-theme-options.php:464
+msgid "Your Picture"
+msgstr ""
+
+#: inc/inc-theme-options.php:465
+msgid "The size of your picture should be no bigger than 520 x 529 pixels."
+msgstr ""
+
+#: inc/inc-theme-options.php:479 inc/inc-theme-options.php:704
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:480 inc/inc-theme-options.php:495
+#: inc/inc-theme-options.php:510 inc/inc-theme-options.php:525
+#: inc/inc-theme-options.php:540 inc/inc-theme-options.php:555
+#: inc/inc-theme-options.php:570 inc/inc-theme-options.php:585
+#: inc/inc-theme-options.php:600 inc/inc-theme-options.php:615
+#: inc/inc-theme-options.php:630 inc/inc-theme-options.php:645
+#: inc/inc-theme-options.php:660 inc/inc-theme-options.php:705
+#: inc/inc-theme-options.php:720 inc/inc-theme-options.php:735
+#: inc/inc-theme-options.php:750 inc/inc-theme-options.php:765
+msgid "Include \"https://\" or \"http://\" in the beginning of URL."
+msgstr ""
+
+#: inc/inc-theme-options.php:494 inc/inc-theme-options.php:719
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:509
+msgid "Dribbble Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:524 inc/inc-theme-options.php:734
+msgid "Google Plus Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:539
+msgid "Github Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:554 inc/inc-theme-options.php:749
+msgid "Instagram Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:569
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:584
+msgid "Tumblr Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:599
+msgid "Flickr Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:614
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:629
+msgid "Vimeo Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:644 inc/inc-theme-options.php:764
+msgid "Skype Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:659
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/inc-theme-options.php:674
+msgid "Copyright"
+msgstr ""
+
+#: inc/inc-theme-options.php:675
+msgid "Enter your custom copyright message here."
+msgstr ""
+
+#: inc/inc-theme-options.php:689
+msgid "Copyright Typography"
+msgstr ""
+
+#: inc/inc-theme-options.php:690
+msgid "Change default text style for copyright text."
+msgstr ""
+
+#: inc/inc-theme-options.php:779
+msgid "Google Fonts API Key"
+msgstr ""
+
+#: inc/inc-theme-options.php:780
+msgid ""
+"It's recommended to enter your own Google Font API Key to make sure Google "
+"fonts will work properly and to get google fonts library updates. To learn "
+"how to obtain your API key click <a href=\"http://doc.mypreview.net/"
+"vestalite/#GoogleAPIKey\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: inc/inc-theme-options.php:794
+msgid "Google Fonts Collection"
+msgstr ""
+
+#: inc/inc-theme-options.php:795
+msgid ""
+"Add Google fonts that you will use on the website here. Adding too much "
+"fonts will negatively impact your page load speed. After adding the Google "
+"fonts and click on \"Save Changes\" button, Newly added fonts will be "
+"automatically populated on all typography options."
+msgstr ""
+
+#: inc/inc-theme-options.php:809 inc/inc-theme-options.php:1428
+msgid "General"
+msgstr ""
+
+#: inc/inc-theme-options.php:824
+msgid "Anchor Link"
+msgstr ""
+
+#: inc/inc-theme-options.php:825
+msgid "Change default text style for anchor link (a)."
+msgstr ""
+
+#: inc/inc-theme-options.php:839
+msgid "Span"
+msgstr ""
+
+#: inc/inc-theme-options.php:840
+msgid "Change default text style for span tag."
+msgstr ""
+
+#: inc/inc-theme-options.php:854
+msgid "Paragraph"
+msgstr ""
+
+#: inc/inc-theme-options.php:855
+msgid "Change default text style for paragraph (P)."
+msgstr ""
+
+#: inc/inc-theme-options.php:869
+msgid "Italic"
+msgstr ""
+
+#: inc/inc-theme-options.php:870
+msgid "Change default text style for italic font style (em)."
+msgstr ""
+
+#: inc/inc-theme-options.php:884
+msgid "Heading"
+msgstr ""
+
+#: inc/inc-theme-options.php:899
+msgid "Heading 1"
+msgstr ""
+
+#: inc/inc-theme-options.php:900
+msgid "Change default text style for heading 1 (H1)."
+msgstr ""
+
+#: inc/inc-theme-options.php:914
+msgid "Heading 2"
+msgstr ""
+
+#: inc/inc-theme-options.php:915
+msgid "Change default text style for heading 2 (H2)."
+msgstr ""
+
+#: inc/inc-theme-options.php:929
+msgid "Heading 3"
+msgstr ""
+
+#: inc/inc-theme-options.php:930
+msgid "Change default text style for heading 3 (H3)."
+msgstr ""
+
+#: inc/inc-theme-options.php:944
+msgid "Heading 4"
+msgstr ""
+
+#: inc/inc-theme-options.php:945
+msgid "Change default text style for heading 4 (H4)."
+msgstr ""
+
+#: inc/inc-theme-options.php:959
+msgid "Heading 5"
+msgstr ""
+
+#: inc/inc-theme-options.php:960
+msgid "Change default text style for heading 5 (H5)."
+msgstr ""
+
+#: inc/inc-theme-options.php:974
+msgid "Heading 6"
+msgstr ""
+
+#: inc/inc-theme-options.php:975
+msgid "Change default text style for heading 6 (H6)."
+msgstr ""
+
+#: inc/inc-theme-options.php:989
+msgid "Elements"
+msgstr ""
+
+#: inc/inc-theme-options.php:1004
+msgid "Blockquote"
+msgstr ""
+
+#: inc/inc-theme-options.php:1005
+msgid "Change default text style for blockquote."
+msgstr ""
+
+#: inc/inc-theme-options.php:1019
+msgid "Menu Elements"
+msgstr ""
+
+#: inc/inc-theme-options.php:1020
+msgid "Change default text style for Main and Footer Navigation."
+msgstr ""
+
+#: inc/inc-theme-options.php:1034
+msgid "Form Elements"
+msgstr ""
+
+#: inc/inc-theme-options.php:1035
+msgid ""
+"Change default text style for Form Elements.\n"
+"<br />\n"
+"<strong>input, button, select, textarea</strong>"
+msgstr ""
+
+#: inc/inc-theme-options.php:1051
+msgid "Table Elements"
+msgstr ""
+
+#: inc/inc-theme-options.php:1052
+msgid "Change default text style for table items (th / td / tr)."
+msgstr ""
+
+#: inc/inc-theme-options.php:1066
+msgid "Unordered / Ordered List"
+msgstr ""
+
+#: inc/inc-theme-options.php:1067
+msgid "Change default text style for list items (ul / ol / dl)."
+msgstr ""
+
+#: inc/inc-theme-options.php:1081
+msgid "404 Content"
+msgstr ""
+
+#: inc/inc-theme-options.php:1082
+msgid "Enter custom text or media for 404 page content."
+msgstr ""
+
+#: inc/inc-theme-options.php:1158
+msgid "Google Analytics UA Code"
+msgstr ""
+
+#: inc/inc-theme-options.php:1159
+msgid "Enter your UA code."
+msgstr ""
+
+#: inc/inc-theme-options.php:1173
+msgid "Google Webmaster Tools"
+msgstr ""
+
+#: inc/inc-theme-options.php:1174 inc/inc-theme-options.php:1189
+#: inc/inc-theme-options.php:1204
+msgid "Enter the verify meta value."
+msgstr ""
+
+#: inc/inc-theme-options.php:1188
+msgid "Bing Webmaster Tools"
+msgstr ""
+
+#: inc/inc-theme-options.php:1203
+msgid "Alexa Verification ID"
+msgstr ""
+
+#: inc/inc-theme-options.php:1218
+msgid "Default Meta Description"
+msgstr ""
+
+#: inc/inc-theme-options.php:1219
+msgid ""
+"Will be used by default for home page and pages that don't have SEO "
+"description"
+msgstr ""
+
+#: inc/inc-theme-options.php:1233
+msgid "Default Meta Keywords"
+msgstr ""
+
+#: inc/inc-theme-options.php:1248
+msgid "Global CSS"
+msgstr ""
+
+#: inc/inc-theme-options.php:1263
+msgid "Tablets CSS"
+msgstr ""
+
+#: inc/inc-theme-options.php:1264
+msgid "Width from 768px to 985px"
+msgstr ""
+
+#: inc/inc-theme-options.php:1278
+msgid "Wide Phones CSS"
+msgstr ""
+
+#: inc/inc-theme-options.php:1279
+msgid "Width from 480px to 767px"
+msgstr ""
+
+#: inc/inc-theme-options.php:1293
+msgid "Phones CSS"
+msgstr ""
+
+#: inc/inc-theme-options.php:1294
+msgid "Width from 320px to 479px"
+msgstr ""
+
+#: inc/inc-theme-options.php:1308
+msgid "Remove generator"
+msgstr ""
+
+#: inc/inc-theme-options.php:1323
+msgid "Remove the Lost Password Link"
+msgstr ""
+
+#: inc/inc-theme-options.php:1338
+msgid "Remove the “Back to” Link"
+msgstr ""
+
+#: inc/inc-theme-options.php:1353
+msgid "WordPress Login page Custom Message"
+msgstr ""
+
+#: inc/inc-theme-options.php:1368
+msgid "WordPress Login page Background"
+msgstr ""
+
+#: inc/inc-theme-options.php:1369
+msgid "<em>Note: Allowed extensions are .jpg, .png and .gif</em>"
+msgstr ""
+
+#: inc/inc-theme-options.php:1383
+msgid "WordPress Login page Logo"
+msgstr ""
+
+#: inc/inc-theme-options.php:1384
+msgid "The size of your logo should be no bigger than 320 x 67 pixels."
+msgstr ""
+
+#: inc/inc-theme-options.php:1398
+msgid "WordPress Login page Logo Link"
+msgstr ""
+
+#: inc/inc-theme-options.php:1413
+msgid "WordPress Login page Logo Title"
+msgstr ""
+
+#: inc/inc-theme-options.php:1443
+msgid "Additional Header Code"
+msgstr ""
+
+#: inc/inc-theme-options.php:1444 inc/inc-theme-options.php:1467
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages.\n"
+"<br />\n"
+"<em> Use this code in the begining of your js code to prevent conflict "
+"issues. </em>\n"
+"<br />\n"
+"<pre>\n"
+"jQuery(document).ready(function(){\n"
+"   //here\n"
+"});\n"
+"</pre>"
+msgstr ""
+
+#: inc/inc-theme-options.php:1466
+msgid "Additional Footer Code"
+msgstr ""
+
+#: inc/inc-theme-options.php:1489 inc/inc-theme-options.php:1504
+msgid "Dynamic CSS"
+msgstr ""
+
+#: inc/inc-theme-options.php:1505
+msgid ""
+"<em>Note: DO NOT EDIT DEFAULT VALUES.</em>\n"
+"<br />\n"
+"<strong>Only edit if you know what to do!</strong> If you edit this without "
+"any knowledge on dynamic css it might break the theme!"
+msgstr ""
+
+#: inc/inc-widgets.php:16
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/inc-widgets.php:18
+msgid "Displays on the right of the blog posts"
+msgstr ""
+
+#: inc/inc-widgets.php:26
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/inc-widgets.php:28
+msgid "Displays on the right of the pages"
+msgstr ""
+
+#: inc/vw-widgets/widget-facebook.php:23
+msgid "Facebook Like Box"
+msgstr ""
+
+#: inc/vw-widgets/widget-facebook.php:25
+msgid "Display Facebook like box in your website."
+msgstr ""
+
+#: inc/vw-widgets/widget-facebook.php:67
+msgid "Find us on Facebook"
+msgstr ""
+
+#: inc/vw-widgets/widget-facebook.php:72
+msgid "Title : "
+msgstr ""
+
+#: inc/vw-widgets/widget-facebook.php:76
+msgid "Page Url : "
+msgstr ""
+
+#: inc/vw-widgets/widget-facebook.php:80
+msgid "Dark Skin ?"
+msgstr ""
+
+#: inc/vw-widgets/widget-instagram-feed.php:23
+msgid "Instagram Feeds"
+msgstr ""
+
+#: inc/vw-widgets/widget-instagram-feed.php:25
+msgid "Showing your latest Instagram photos."
+msgstr ""
+
+#: inc/vw-widgets/widget-instagram-feed.php:90
+msgid "Find Your Access Token at"
+msgstr ""
+
+#: inc/vw-widgets/widget-instagram-feed.php:90
+msgid "Pixelunion"
+msgstr ""
+
+#: inc/vw-widgets/widget-popular-posts.php:23
+msgid "Popular Posts Widget"
+msgstr ""
+
+#: inc/vw-widgets/widget-popular-posts.php:25
+msgid "Show your popular posts."
+msgstr ""
+
+#: inc/vw-widgets/widget-popular-posts.php:75
+#: inc/vw-widgets/widget-recent-posts.php:56
+#: layout/blog/content-blog-loop.php:18 single.php:17
+msgid "By "
+msgstr ""
+
+#: inc/vw-widgets/widget-popular-posts.php:103
+msgid "Title: "
+msgstr ""
+
+#: inc/vw-widgets/widget-popular-posts.php:108
+msgid "Number of Posts: "
+msgstr ""
+
+#: inc/vw-widgets/widget-recent-posts.php:16
+#: inc/vw-widgets/widget-recent-posts.php:28
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/vw-widgets/widget-recent-posts.php:18
+msgid "Your site’s most recent posts."
+msgstr ""
+
+#: inc/vw-widgets/widget-search.php:23
+msgid "Search Form"
+msgstr ""
+
+#: inc/vw-widgets/widget-search.php:25
+msgid "Show WordPress search form in your website."
+msgstr ""
+
+#: inc/vw-widgets/widget-search.php:52
+msgid "Search"
+msgstr ""
+
+#: inc/vw-widgets/widget-search.php:57
+msgid "Title:"
+msgstr ""
+
+#: inc/vw-widgets/widget-search.php:73
+msgctxt "placeholder"
+msgid "Search ..."
+msgstr ""
+
+#: layout/blog/content-blog-loop.php:21 single.php:24
+msgid "0 Comm"
+msgstr ""
+
+#: layout/blog/content-blog-loop.php:21 single.php:24
+msgid "1 Comm"
+msgstr ""
+
+#: layout/blog/content-blog-loop.php:21 single.php:24
+msgid "% Comm"
+msgstr ""
+
+#: layout/blog/content-blog-loop.php:26
+msgid "Keep Reading"
+msgstr ""
+
+#: layout/blog/content-blog-pagination.php:12
+msgid "Pages:"
+msgstr ""
+
+#: layout/blog/content-blog-pagination.php:18
+msgid "Next page"
+msgstr ""
+
+#: layout/blog/content-blog-pagination.php:19
+msgid "Previous page"
+msgstr ""
+
+#: search.php:14
+msgid "Results for: "
+msgstr ""
+
+#: sidebar-page.php:4 sidebar.php:4
+msgid "Sidebar Setup"
+msgstr ""
+
+#: sidebar-page.php:5
+msgid "Please add widgets to the page sidebar to have them display here."
+msgstr ""
+
+#: sidebar.php:5
+msgid "Please add widgets to the blog sidebar to have them display here."
+msgstr ""
+
+#: single.php:59
+msgid "Author"
+msgstr ""
+
+#: single.php:67
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: tag.php:14
+msgid "Posts for: "
+msgstr ""
+
+#, fuzzy
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] ""
+#~ "#-#-#-#-#  1extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ "#-#-#-#-#  2extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+#~ msgstr[1] "#-#-#-#-#  1extracted.pot (PACKAGE VERSION)  #-#-#-#-#\n"
