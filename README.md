@@ -7,6 +7,6 @@
  * @FilePath: \Autod:\OneDrive\Python\GitHub\Python\README.md
 -->
 
-这里写笔记还不是太方便，只适合放代码
+本来是想用 Gittkarken 来更新的，没想到破解版本找到好久，弄不了，干脆还是用我常用的语雀吧。下方放有链接：
 
 https://www.yuque.com/charlie/python
