@@ -6,3 +6,7 @@
  * @Description: In User Settings Edit
  * @FilePath: \Autod:\OneDrive\Python\GitHub\Python\README.md
 -->
+
+这里写笔记还不是太方便，只适合放代码
+
+https://www.yuque.com/charlie/python
